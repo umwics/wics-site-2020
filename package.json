@@ -43,7 +43,7 @@
         "formik": "^2.2.1",
         "formik-material-ui": "^3.0.0",
         "formik-material-ui-lab": "0.0.7",
-        "formik-material-ui-pickers": "0.0.11",
+        "formik-material-ui-pickers": "0.0.12",
         "gray-matter": "^4.0.2",
         "next": "^9.5.5",
         "next-connect": "^0.9.1",
