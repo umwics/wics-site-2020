@@ -47,7 +47,7 @@
         "gray-matter": "^4.0.2",
         "next": "^9.5.5",
         "next-connect": "^0.9.1",
-        "next-seo": "^4.14.0",
+        "next-seo": "^4.26.0",
         "nextjs-sitemap-generator": "^1.1.1",
         "notistack": "^1.0.6",
         "nprogress": "^0.2.0",
